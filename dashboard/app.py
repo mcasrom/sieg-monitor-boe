@@ -29,7 +29,8 @@ st.set_page_config(
 
 # ── Detección de entorno ──────────────────────────────────
 _local = os.path.expanduser("~/sieg-monitor-boe")
-_cloud = os.path.dirname(os.path.abspath(__file__))
+_script_dir = os.path.dirname(os.path.abspath(__file__))
+_cloud = os.path.dirname(_script_dir)
 BASE_DIR = _local if os.path.exists(_local) else _cloud
 DB_PATH  = os.path.join(BASE_DIR, "data", "processed", "boe.duckdb")
 EXP_DIR  = os.path.join(BASE_DIR, "data", "exports")
