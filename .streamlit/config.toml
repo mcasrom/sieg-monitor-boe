@@ -1,0 +1,10 @@
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = 'dark'
+backgroundColor = '#0a0e0a'
+secondaryBackgroundColor = '#0f1a0f'
+primaryColor = '#00ff41'
+textColor = '#c8ffc8'
+font = 'monospace'
