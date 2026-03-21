@@ -128,8 +128,6 @@ st.sidebar.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Debug rutas
-st.sidebar.markdown(f"DEBUG: BASE={BASE_DIR} EXP={EXP_DIR} EXISTS={os.path.exists(EXP_DIR)}", unsafe_allow_html=False)
 # ── Carga de datos ────────────────────────────────────────
 @st.cache_data(ttl=1800)
 def cargar_datos(dias, secciones, relev):
