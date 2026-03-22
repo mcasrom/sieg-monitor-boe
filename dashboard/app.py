@@ -184,6 +184,11 @@ with tab1:
     else:
         hoy = date.today()
         df_hoy = df[df["fecha"].dt.date == hoy] if not df.empty else pd.DataFrame()
+        if df_hoy.empty and not df.empty:
+            ultimo_dia = df["fecha"].dt.date.max()
+            df_hoy = df[df["fecha"].dt.date == ultimo_dia]
+            hoy = ultimo_dia
+            st.info(f"El BOE no publica hoy — mostrando último día disponible: {ultimo_dia.strftime('%d/%m/%Y')}")
 
         c1, c2, c3, c4 = st.columns(4)
         c1.metric("📄 Items hoy", len(df_hoy))

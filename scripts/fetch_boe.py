@@ -180,6 +180,14 @@ def fetch_seccion(conn, seccion_num, fecha_hoy):
             cats     = detectar_terminos(f"{titulo} {desc}")
             relev    = calcular_relevancia(titulo, seccion_num)
 
+            # Leer fecha real del item RSS
+            pub_date = item.findtext("pubDate", "")
+            try:
+                from email.utils import parsedate_to_datetime
+                fecha_item = parsedate_to_datetime(pub_date).date() if pub_date else fecha_hoy
+            except:
+                fecha_item = fecha_hoy
+
             conn.execute("""
                 INSERT OR IGNORE INTO boe_items
                 (id, titulo, seccion, seccion_nombre, organismo, partido_ref,
@@ -187,7 +195,7 @@ def fetch_seccion(conn, seccion_num, fecha_hoy):
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """, (uid, titulo[:400], seccion_num, seccion_nombre,
                   organismo[:200], partido[:50],
-                  str(fecha_hoy), link[:500],
+                  str(fecha_item), link[:500],
                   cats.split(",")[0] if cats else "general",
                   cats, relev))
             insertados += 1
