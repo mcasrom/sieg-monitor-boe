@@ -131,7 +131,7 @@ st.sidebar.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Carga de datos ────────────────────────────────────────
-@st.cache_data(ttl=1800)
+@st.cache_data(ttl=300)
 def cargar_datos(dias, secciones, relev):
     fecha_desde = date.today() - timedelta(days=dias)
     try:
