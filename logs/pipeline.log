@@ -14,3 +14,227 @@
 [2026-03-21 20:27:58] [PARQUET] boe_relevantes: 8 filas
 [2026-03-21 20:27:58] Ingesta completada — 372 items procesados
 [2026-03-21 20:27:58] ==================================================
+[2026-03-22 06:00:05] ==================================================
+[2026-03-22 06:00:05] SIEG Monitor BOE — Inicio ingesta
+[2026-03-22 06:00:05] DB inicializada OK
+[2026-03-22 06:00:14] [BOE S1] 5 items · 2 categorías
+[2026-03-22 06:00:16] [BOE S2] 64 items · 3 categorías
+[2026-03-22 06:00:16] [BOE S3] 27 items · 6 categorías
+[2026-03-22 06:00:20] [BOE S4] 145 items · 2 categorías
+[2026-03-22 06:00:23] [BOE S5] 131 items · 3 categorías
+[2026-03-22 06:00:23] BD: 372 total · 0 hoy · 0 relevantes
+[2026-03-22 06:00:23] Retención 90 días aplicada
+[2026-03-22 06:00:23] [PARQUET] boe_items: 372 filas
+[2026-03-22 06:00:23] [PARQUET] boe_tendencias: 14 filas
+[2026-03-22 06:00:23] [PARQUET] boe_hoy: 0 filas
+[2026-03-22 06:00:23] [PARQUET] boe_relevantes: 8 filas
+[2026-03-22 06:00:24] Ingesta completada — 372 items procesados
+[2026-03-22 06:00:24] ==================================================
+[2026-03-22 06:00:05] ==================================================
+[2026-03-22 06:00:05] SIEG Monitor BOE — Inicio ingesta
+[2026-03-22 06:00:05] DB inicializada OK
+[2026-03-22 06:00:14] [BOE S1] 5 items · 2 categorías
+[2026-03-22 06:00:16] [BOE S2] 64 items · 3 categorías
+[2026-03-22 06:00:16] [BOE S3] 27 items · 6 categorías
+[2026-03-22 06:00:20] [BOE S4] 145 items · 2 categorías
+[2026-03-22 06:00:23] [BOE S5] 131 items · 3 categorías
+[2026-03-22 06:00:23] BD: 372 total · 0 hoy · 0 relevantes
+[2026-03-22 06:00:23] Retención 90 días aplicada
+[2026-03-22 06:00:23] [PARQUET] boe_items: 372 filas
+[2026-03-22 06:00:23] [PARQUET] boe_tendencias: 14 filas
+[2026-03-22 06:00:23] [PARQUET] boe_hoy: 0 filas
+[2026-03-22 06:00:23] [PARQUET] boe_relevantes: 8 filas
+[2026-03-22 06:00:24] Ingesta completada — 372 items procesados
+[2026-03-22 06:00:24] ==================================================
+[2026-03-22 08:21:19] ==================================================
+[2026-03-22 08:21:19] SIEG Monitor BOE — Inicio ingesta
+[2026-03-22 08:21:20] DB inicializada OK
+[2026-03-22 08:21:22] [BOE S1] 5 items · 2 categorías
+[2026-03-22 08:21:23] [BOE S2] 64 items · 3 categorías
+[2026-03-22 08:21:23] [BOE S3] 27 items · 6 categorías
+[2026-03-22 08:21:26] [BOE S4] 145 items · 2 categorías
+[2026-03-22 08:21:27] [BOE S5] 131 items · 3 categorías
+[2026-03-22 08:21:27] BD: 372 total · 0 hoy · 0 relevantes
+[2026-03-22 08:21:28] Retención 90 días aplicada
+[2026-03-22 08:21:28] [PARQUET] boe_items: 372 filas
+[2026-03-22 08:21:28] [PARQUET] boe_tendencias: 14 filas
+[2026-03-22 08:21:28] [PARQUET] boe_hoy: 0 filas
+[2026-03-22 08:21:28] [PARQUET] boe_relevantes: 8 filas
+[2026-03-22 08:21:28] Ingesta completada — 372 items procesados
+[2026-03-22 08:21:28] ==================================================
+[2026-03-22 08:24:33] ==================================================
+[2026-03-22 08:24:33] SIEG Monitor BOE — Inicio ingesta
+[2026-03-22 08:24:33] DB inicializada OK
+[2026-03-22 08:24:35] [BOE S1] 5 items · 2 categorías
+[2026-03-22 08:24:37] [BOE S2] 64 items · 3 categorías
+[2026-03-22 08:24:38] [BOE S3] 27 items · 6 categorías
+[2026-03-22 08:24:43] [BOE S4] 145 items · 2 categorías
+[2026-03-22 08:24:46] [BOE S5] 131 items · 3 categorías
+[2026-03-22 08:24:46] BD: 372 total · 0 hoy · 0 relevantes
+[2026-03-22 08:24:46] Retención 90 días aplicada
+[2026-03-22 08:24:46] [PARQUET] boe_items: 372 filas
+[2026-03-22 08:24:46] [PARQUET] boe_tendencias: 7 filas
+[2026-03-22 08:24:46] [PARQUET] boe_hoy: 0 filas
+[2026-03-22 08:24:46] [PARQUET] boe_relevantes: 8 filas
+[2026-03-22 08:24:46] Ingesta completada — 372 items procesados
+[2026-03-22 08:24:46] ==================================================
+[2026-03-23 06:00:06] ==================================================
+[2026-03-23 06:00:06] SIEG Monitor BOE — Inicio ingesta
+[2026-03-23 06:00:07] DB inicializada OK
+[2026-03-23 06:00:13] [BOE S1] 5 items · 2 categorías
+[2026-03-23 06:00:15] [BOE S2] 64 items · 3 categorías
+[2026-03-23 06:00:15] [BOE S3] 27 items · 6 categorías
+[2026-03-23 06:00:18] [BOE S4] 145 items · 2 categorías
+[2026-03-23 06:00:21] [BOE S5] 131 items · 3 categorías
+[2026-03-23 06:00:21] BD: 372 total · 0 hoy · 0 relevantes
+[2026-03-23 06:00:21] Retención 90 días aplicada
+[2026-03-23 06:00:21] [PARQUET] boe_items: 372 filas
+[2026-03-23 06:00:21] [PARQUET] boe_tendencias: 14 filas
+[2026-03-23 06:00:21] [PARQUET] boe_hoy: 0 filas
+[2026-03-23 06:00:21] [PARQUET] boe_relevantes: 8 filas
+[2026-03-23 06:00:21] Ingesta completada — 372 items procesados
+[2026-03-23 06:00:21] ==================================================
+[2026-03-23 06:00:06] ==================================================
+[2026-03-23 06:00:06] SIEG Monitor BOE — Inicio ingesta
+[2026-03-23 06:00:07] DB inicializada OK
+[2026-03-23 06:00:13] [BOE S1] 5 items · 2 categorías
+[2026-03-23 06:00:15] [BOE S2] 64 items · 3 categorías
+[2026-03-23 06:00:15] [BOE S3] 27 items · 6 categorías
+[2026-03-23 06:00:18] [BOE S4] 145 items · 2 categorías
+[2026-03-23 06:00:21] [BOE S5] 131 items · 3 categorías
+[2026-03-23 06:00:21] BD: 372 total · 0 hoy · 0 relevantes
+[2026-03-23 06:00:21] Retención 90 días aplicada
+[2026-03-23 06:00:21] [PARQUET] boe_items: 372 filas
+[2026-03-23 06:00:21] [PARQUET] boe_tendencias: 14 filas
+[2026-03-23 06:00:21] [PARQUET] boe_hoy: 0 filas
+[2026-03-23 06:00:21] [PARQUET] boe_relevantes: 8 filas
+[2026-03-23 06:00:21] Ingesta completada — 372 items procesados
+[2026-03-23 06:00:21] ==================================================
+[2026-03-24 06:00:06] ==================================================
+[2026-03-24 06:00:06] SIEG Monitor BOE — Inicio ingesta
+[2026-03-24 06:00:06] DB inicializada OK
+[2026-03-24 06:00:13] [BOE S1] 5 items · 3 categorías
+[2026-03-24 06:00:15] [BOE S2] 61 items · 5 categorías
+[2026-03-24 06:00:18] [BOE S3] 85 items · 7 categorías
+[2026-03-24 06:00:20] [BOE S4] 45 items · 2 categorías
+[2026-03-24 06:00:25] [BOE S5] 116 items · 7 categorías
+[2026-03-24 06:00:25] BD: 684 total · 0 hoy · 0 relevantes
+[2026-03-24 06:00:25] Retención 90 días aplicada
+[2026-03-24 06:00:25] [PARQUET] boe_items: 684 filas
+[2026-03-24 06:00:26] [PARQUET] boe_tendencias: 23 filas
+[2026-03-24 06:00:26] [PARQUET] boe_hoy: 0 filas
+[2026-03-24 06:00:26] [PARQUET] boe_relevantes: 14 filas
+[2026-03-24 06:00:26] Ingesta completada — 312 items procesados
+[2026-03-24 06:00:26] ==================================================
+[2026-03-24 06:00:06] ==================================================
+[2026-03-24 06:00:06] SIEG Monitor BOE — Inicio ingesta
+[2026-03-24 06:00:06] DB inicializada OK
+[2026-03-24 06:00:13] [BOE S1] 5 items · 3 categorías
+[2026-03-24 06:00:15] [BOE S2] 61 items · 5 categorías
+[2026-03-24 06:00:18] [BOE S3] 85 items · 7 categorías
+[2026-03-24 06:00:20] [BOE S4] 45 items · 2 categorías
+[2026-03-24 06:00:25] [BOE S5] 116 items · 7 categorías
+[2026-03-24 06:00:25] BD: 684 total · 0 hoy · 0 relevantes
+[2026-03-24 06:00:25] Retención 90 días aplicada
+[2026-03-24 06:00:25] [PARQUET] boe_items: 684 filas
+[2026-03-24 06:00:26] [PARQUET] boe_tendencias: 23 filas
+[2026-03-24 06:00:26] [PARQUET] boe_hoy: 0 filas
+[2026-03-24 06:00:26] [PARQUET] boe_relevantes: 14 filas
+[2026-03-24 06:00:26] Ingesta completada — 312 items procesados
+[2026-03-24 06:00:26] ==================================================
+[2026-03-24 08:01:39] ==================================================
+[2026-03-24 08:01:39] SIEG Monitor BOE — Inicio ingesta
+[2026-03-24 08:01:40] DB inicializada OK
+[2026-03-24 08:01:40] [BOE S1] 0 items · 0 categorías
+[2026-03-24 08:01:44] [BOE S2] 43 items · 4 categorías
+[2026-03-24 08:01:45] [BOE S3] 34 items · 4 categorías
+[2026-03-24 08:01:47] [BOE S4] 55 items · 2 categorías
+[2026-03-24 08:01:49] [BOE S5] 92 items · 6 categorías
+[2026-03-24 08:01:49] BD: 908 total · 224 hoy · 6 relevantes
+[2026-03-24 08:01:49] Retención 90 días aplicada
+[2026-03-24 08:01:50] [PARQUET] boe_items: 908 filas
+[2026-03-24 08:01:50] [PARQUET] boe_tendencias: 23 filas
+[2026-03-24 08:01:50] [PARQUET] boe_hoy: 224 filas
+[2026-03-24 08:01:50] [PARQUET] boe_relevantes: 20 filas
+[2026-03-24 08:01:50] Ingesta completada — 224 items procesados
+[2026-03-24 08:01:50] ==================================================
+[2026-03-25 16:46:48] ==================================================
+[2026-03-25 16:46:48] SIEG Monitor BOE — Inicio ingesta
+[2026-03-25 16:46:48] DB inicializada OK
+[2026-03-25 16:46:55] [BOE S1] 1 items · 1 categorías
+[2026-03-25 16:46:57] [BOE S2] 57 items · 5 categorías
+[2026-03-25 16:46:58] [BOE S3] 49 items · 4 categorías
+[2026-03-25 16:46:58] [BOE S4] 0 items · 0 categorías
+[2026-03-25 16:47:01] [BOE S5] 102 items · 5 categorías
+[2026-03-25 16:47:01] BD: 1117 total · 209 hoy · 6 relevantes
+[2026-03-25 16:47:01] Retención 90 días aplicada
+[2026-03-25 16:47:02] [PARQUET] boe_items: 1117 filas
+[2026-03-25 16:47:02] [PARQUET] boe_tendencias: 30 filas
+[2026-03-25 16:47:02] [PARQUET] boe_hoy: 209 filas
+[2026-03-25 16:47:02] [PARQUET] boe_relevantes: 26 filas
+[2026-03-25 16:47:02] Ingesta completada — 209 items procesados
+[2026-03-25 16:47:02] ==================================================
+[2026-03-25 16:46:48] ==================================================
+[2026-03-25 16:46:48] SIEG Monitor BOE — Inicio ingesta
+[2026-03-25 16:46:48] DB inicializada OK
+[2026-03-25 16:46:55] [BOE S1] 1 items · 1 categorías
+[2026-03-25 16:46:57] [BOE S2] 57 items · 5 categorías
+[2026-03-25 16:46:58] [BOE S3] 49 items · 4 categorías
+[2026-03-25 16:46:58] [BOE S4] 0 items · 0 categorías
+[2026-03-25 16:47:01] [BOE S5] 102 items · 5 categorías
+[2026-03-25 16:47:01] BD: 1117 total · 209 hoy · 6 relevantes
+[2026-03-25 16:47:01] Retención 90 días aplicada
+[2026-03-25 16:47:02] [PARQUET] boe_items: 1117 filas
+[2026-03-25 16:47:02] [PARQUET] boe_tendencias: 30 filas
+[2026-03-25 16:47:02] [PARQUET] boe_hoy: 209 filas
+[2026-03-25 16:47:02] [PARQUET] boe_relevantes: 26 filas
+[2026-03-25 16:47:02] Ingesta completada — 209 items procesados
+[2026-03-25 16:47:02] ==================================================
+[2026-03-26 14:12:52] ==================================================
+[2026-03-26 14:12:52] SIEG Monitor BOE — Inicio ingesta
+[2026-03-26 14:12:53] DB inicializada OK
+[2026-03-26 14:12:59] [BOE S1] 5 items · 4 categorías
+[2026-03-26 14:13:00] [BOE S2] 27 items · 6 categorías
+[2026-03-26 14:13:01] [BOE S3] 29 items · 5 categorías
+[2026-03-26 14:13:01] [BOE S4] 0 items · 0 categorías
+[2026-03-26 14:13:05] [BOE S5] 118 items · 5 categorías
+[2026-03-26 14:13:05] BD: 1296 total · 179 hoy · 8 relevantes
+[2026-03-26 14:13:05] Retención 90 días aplicada
+[2026-03-26 14:13:06] [PARQUET] boe_items: 1296 filas
+[2026-03-26 14:13:06] [PARQUET] boe_tendencias: 39 filas
+[2026-03-26 14:13:06] [PARQUET] boe_hoy: 179 filas
+[2026-03-26 14:13:06] [PARQUET] boe_relevantes: 34 filas
+[2026-03-26 14:13:06] Ingesta completada — 179 items procesados
+[2026-03-26 14:13:06] ==================================================
+[2026-03-27 08:00:04] ==================================================
+[2026-03-27 08:00:04] SIEG Monitor BOE — Inicio ingesta
+[2026-03-27 08:00:04] DB inicializada OK
+[2026-03-27 08:00:11] [BOE S1] 9 items · 3 categorías
+[2026-03-27 08:00:13] [BOE S2] 52 items · 4 categorías
+[2026-03-27 08:00:14] [BOE S3] 19 items · 4 categorías
+[2026-03-27 08:00:14] [BOE S4] 0 items · 0 categorías
+[2026-03-27 08:00:19] [BOE S5] 126 items · 6 categorías
+[2026-03-27 08:00:19] BD: 1502 total · 206 hoy · 6 relevantes
+[2026-03-27 08:00:19] Retención 90 días aplicada
+[2026-03-27 08:00:20] [PARQUET] boe_items: 1502 filas
+[2026-03-27 08:00:20] [PARQUET] boe_tendencias: 48 filas
+[2026-03-27 08:00:20] [PARQUET] boe_hoy: 206 filas
+[2026-03-27 08:00:20] [PARQUET] boe_relevantes: 40 filas
+[2026-03-27 08:00:20] Ingesta completada — 206 items procesados
+[2026-03-27 08:00:20] ==================================================
+[2026-03-27 08:00:04] ==================================================
+[2026-03-27 08:00:04] SIEG Monitor BOE — Inicio ingesta
+[2026-03-27 08:00:04] DB inicializada OK
+[2026-03-27 08:00:11] [BOE S1] 9 items · 3 categorías
+[2026-03-27 08:00:13] [BOE S2] 52 items · 4 categorías
+[2026-03-27 08:00:14] [BOE S3] 19 items · 4 categorías
+[2026-03-27 08:00:14] [BOE S4] 0 items · 0 categorías
+[2026-03-27 08:00:19] [BOE S5] 126 items · 6 categorías
+[2026-03-27 08:00:19] BD: 1502 total · 206 hoy · 6 relevantes
+[2026-03-27 08:00:19] Retención 90 días aplicada
+[2026-03-27 08:00:20] [PARQUET] boe_items: 1502 filas
+[2026-03-27 08:00:20] [PARQUET] boe_tendencias: 48 filas
+[2026-03-27 08:00:20] [PARQUET] boe_hoy: 206 filas
+[2026-03-27 08:00:20] [PARQUET] boe_relevantes: 40 filas
+[2026-03-27 08:00:20] Ingesta completada — 206 items procesados
+[2026-03-27 08:00:20] ==================================================
