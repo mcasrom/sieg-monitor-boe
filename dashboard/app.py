@@ -253,7 +253,7 @@ with tab2:
                 color=alt.Color("categoria:N", title="Categoría"),
                 tooltip=["fecha:T", "categoria:N", "count:Q"]
             ).properties(height=350, title="Categorías legislativas por día")
-            st.altair_chart(chart, use_container_width=True)
+            st.altair_chart(chart, width="stretch")
 
         st.markdown("---")
 
@@ -267,7 +267,7 @@ with tab2:
                 y=alt.Y("Categoría:N", sort="-x"),
                 tooltip=["Categoría:N", "Menciones:Q"]
             ).properties(height=300)
-            st.altair_chart(bar, use_container_width=True)
+            st.altair_chart(bar, width="stretch")
 
 # ── Tab 3: Buscador ───────────────────────────────────────
 with tab3:
@@ -306,7 +306,7 @@ with tab4:
             color=alt.Color("seccion_nombre:N", title="Sección"),
             tooltip=["seccion_nombre:N", "items:Q"]
         ).properties(height=300, title="Distribución por sección")
-        st.altair_chart(pie, use_container_width=True)
+        st.altair_chart(pie, width="stretch")
 
         st.markdown("---")
 
@@ -317,7 +317,7 @@ with tab4:
                 with st.expander(f"**Sección {sec_num} — {sec_nom}** ({len(df[df['seccion']==sec_num])} items)"):
                     st.dataframe(
                         df_sec[["fecha", "titulo", "organismo", "relevancia", "terminos"]].head(10),
-                        use_container_width=True
+                        width="stretch"
                     )
 
 # ── Tab 5: Guía ───────────────────────────────────────────
