@@ -430,3 +430,35 @@
 [2026-04-02 08:00:17] [PARQUET] boe_relevantes: 68 filas
 [2026-04-02 08:00:17] Ingesta completada — 121 items procesados
 [2026-04-02 08:00:17] ==================================================
+[2026-04-03 08:00:05] ==================================================
+[2026-04-03 08:00:05] SIEG Monitor BOE — Inicio ingesta
+[2026-04-03 08:00:05] DB inicializada OK
+[2026-04-03 08:00:11] [BOE S1] 6 items · 4 categorías
+[2026-04-03 08:00:13] [BOE S2] 45 items · 4 categorías
+[2026-04-03 08:00:14] [BOE S3] 28 items · 2 categorías
+[2026-04-03 08:00:14] [BOE S4] 0 items · 0 categorías
+[2026-04-03 08:00:14] [BOE S5] 0 items · 0 categorías
+[2026-04-03 08:00:14] BD: 2709 total · 79 hoy · 6 relevantes
+[2026-04-03 08:00:14] Retención 90 días aplicada
+[2026-04-03 08:00:15] [PARQUET] boe_items: 2709 filas
+[2026-04-03 08:00:15] [PARQUET] boe_tendencias: 105 filas
+[2026-04-03 08:00:15] [PARQUET] boe_hoy: 79 filas
+[2026-04-03 08:00:15] [PARQUET] boe_relevantes: 74 filas
+[2026-04-03 08:00:16] Ingesta completada — 79 items procesados
+[2026-04-03 08:00:16] ==================================================
+[2026-04-03 08:00:05] ==================================================
+[2026-04-03 08:00:05] SIEG Monitor BOE — Inicio ingesta
+[2026-04-03 08:00:05] DB inicializada OK
+[2026-04-03 08:00:11] [BOE S1] 6 items · 4 categorías
+[2026-04-03 08:00:13] [BOE S2] 45 items · 4 categorías
+[2026-04-03 08:00:14] [BOE S3] 28 items · 2 categorías
+[2026-04-03 08:00:14] [BOE S4] 0 items · 0 categorías
+[2026-04-03 08:00:14] [BOE S5] 0 items · 0 categorías
+[2026-04-03 08:00:14] BD: 2709 total · 79 hoy · 6 relevantes
+[2026-04-03 08:00:14] Retención 90 días aplicada
+[2026-04-03 08:00:15] [PARQUET] boe_items: 2709 filas
+[2026-04-03 08:00:15] [PARQUET] boe_tendencias: 105 filas
+[2026-04-03 08:00:15] [PARQUET] boe_hoy: 79 filas
+[2026-04-03 08:00:15] [PARQUET] boe_relevantes: 74 filas
+[2026-04-03 08:00:16] Ingesta completada — 79 items procesados
+[2026-04-03 08:00:16] ==================================================
