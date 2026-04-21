@@ -750,3 +750,19 @@
 [2026-04-20 08:00:28] [PARQUET] boe_relevantes: 143 filas
 [2026-04-20 08:00:28] Ingesta completada — 231 items procesados
 [2026-04-20 08:00:28] ==================================================
+[2026-04-21 08:00:07] ==================================================
+[2026-04-21 08:00:07] SIEG Monitor BOE — Inicio ingesta
+[2026-04-21 08:00:07] DB inicializada OK
+[2026-04-21 08:00:17] [BOE S1] 4 items · 3 categorías
+[2026-04-21 08:00:21] [BOE S2] 59 items · 4 categorías
+[2026-04-21 08:00:23] [BOE S3] 34 items · 8 categorías
+[2026-04-21 08:00:24] [BOE S4] 46 items · 2 categorías
+[2026-04-21 08:00:29] [BOE S5] 109 items · 6 categorías
+[2026-04-21 08:00:29] BD: 6132 total · 252 hoy · 13 relevantes
+[2026-04-21 08:00:29] Retención 90 días aplicada
+[2026-04-21 08:00:30] [PARQUET] boe_items: 5000 filas
+[2026-04-21 08:00:30] [PARQUET] boe_tendencias: 233 filas
+[2026-04-21 08:00:30] [PARQUET] boe_hoy: 252 filas
+[2026-04-21 08:00:30] [PARQUET] boe_relevantes: 156 filas
+[2026-04-21 08:00:30] Ingesta completada — 252 items procesados
+[2026-04-21 08:00:30] ==================================================
